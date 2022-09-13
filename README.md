@@ -15,8 +15,31 @@
 
 After loading dataset in Power BI, I applied the following applications:
 
+# Understanding of Data:
+Regarding understanding of data, I would say that it can basically go in 2 ways, one on the basis of final points and other can be on the basis of swim time. But, as final points could change over the years as new rules can be made in the games. 
+So, I focused more on "Swim Time" of swimmers and analyzed the dashboard accordingly keeping more focus on timing.
+
 ## Steps taken in Power BI application:
 
 # Theme and Color Palette:
+* I used a dark theme and used swimming picture as background.
+* Colors chosen for the dashboard was deep blue, light blue, white and orange.
+
+# Visualization:
+* Now, the basic design of the dashboard I visualized in Figma and made those shapes there in Figma to place those cards and graphs.
+* Overall, there were mainly 7 visuals in this single-paged dashboard.
+
+# Key Insights from the report:
+* Range of swim time varies from 46.86 to 47.88.
+* Swim Time is minimum when France hosted the championship.
+* Average Swim Time is minimum for the swimmers belonging to Romania.
+* Average Swim Time is minimum in the year 2017 and highest in the year 2016.
+
+# Conclusion:
+Overall, it was a good dashboard to design and it gave me good understanding of data, visualization principles and usage of DAX operations too.
+
+# [Dashboard](https://lnkd.in/dhnCmzpX)
+
+
 
 
