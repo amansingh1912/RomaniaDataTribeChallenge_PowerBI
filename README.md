@@ -16,7 +16,8 @@
 After loading dataset in Power BI, I applied the following applications:
 
 # Understanding of Data:
-Regarding understanding of data, I would say that it can basically go in 2 ways, one on the basis of final points and other can be on the basis of swim time. But, as final points could change over the years as new rules can be made in the games. 
+Regarding understanding of data, I would say that it can basically go in 2 ways, one on the basis of final points and other can be on the basis of swim time. 
+But, as final points could change over the years as new rules can be made in the games. 
 So, I focused more on "Swim Time" of swimmers and analyzed the dashboard accordingly keeping more focus on timing.
 
 ## Steps taken in Power BI application:
